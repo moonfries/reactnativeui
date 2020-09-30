@@ -10,10 +10,17 @@
   "dependencies": {
     "expo": "~39.0.2",
     "expo-status-bar": "~1.0.2",
+    "expo-vector-icons": "^10.0.1",
+    "native-base": "^2.13.14",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.2.tar.gz",
-    "react-native-web": "~0.13.12"
+    "react-native-image-slider-box": "^1.0.12",
+    "react-native-read-more-text": "^1.1.2",
+    "react-native-show-more-button": "^1.0.2",
+    "react-native-vector-icons": "^7.1.0",
+    "react-native-web": "~0.13.12",
+    "react-show-more-text": "^1.4.4"
   },
   "devDependencies": {
     "@babel/core": "~7.9.0"
